@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/api/geronimo-activation_1.0.2_spec-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api/geronimo-javamail_1.3.1_spec-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api/geronimo-jms_1.1_spec-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api/bcmail-jdk15on-1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api/bcpkix-jdk15on-1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api/bcprov-jdk15on-1.49.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
